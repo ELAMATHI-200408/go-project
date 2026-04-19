@@ -1,0 +1,11 @@
+class Main {
+public static void main(String[] args) {
+char c;
+c='h';
+int asciiValue = (int) c;
+System.out.println(asciiValue);
+
+}
+
+
+}
