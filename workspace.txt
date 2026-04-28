@@ -1,0 +1,10 @@
+1. Copy a file content to a different file ?
+
+Create a new file B 
+Read the file A
+Write to file B
+
+
+2. Get file A and file B as user input.. copy file to diff file.
+
+

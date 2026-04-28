@@ -7,6 +7,7 @@ import (
 
 func main() {
 	var filename string
+	//TODO: learn why & used here .. any other places in go we need to use &
 	fmt.Scan(&filename)
 	content, err := os.ReadFile(filename)
 	if err != nil {
