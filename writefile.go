@@ -13,5 +13,6 @@ func main() {
 		return
 	}
 	file.WriteString("Hi Buddy")
+	//file.WriteString("Welcome to go world!")
 	file.Close()
 }
