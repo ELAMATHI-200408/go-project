@@ -1,10 +1,6 @@
-1. Copy a file content to a different file ?
 
-Create a new file B 
-Read the file A
-Write to file B
-
-
-2. Get file A and file B as user input.. copy file to diff file.
-
+Flowers,13% also known as blossoms and blooms, are the reproductive structures of flowering plants.
+ 1 @Typically, they are structured in four circular levels around the end of a stalk. 
+ 2 $These include: sepals, which are modified leaves that support the flower; petals, often designed to attract pollinators; male stamens, where pollen is presented; and female gynoecia, where pollen is received and its movement is facilitated to the egg. 
+ 7 #When flowers are arranged in a group, they are known collectively as an 9 inflorescence.!10
 
