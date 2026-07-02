@@ -1,1 +1,2 @@
 // Swap two variables without a temp variable using multiple assignment
+package main
