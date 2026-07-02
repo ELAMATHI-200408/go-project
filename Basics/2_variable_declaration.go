@@ -1,0 +1,1 @@
+// Declare an int, a float, a string, and a bool using both var and :=.
