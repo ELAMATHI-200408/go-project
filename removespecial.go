@@ -32,5 +32,3 @@ file.WriteString(result)
 
 fmt.Println(result)
 }
-//string replace special char
-//what is a regex
