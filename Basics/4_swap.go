@@ -2,11 +2,14 @@
 package main
 import "fmt"
 func main(){
+	//assign a  and b values
 	a := 10
 	b := 20
-	a = b
+	//swap the a  and b values
+	a,b = b,a
+	//a = b
 	//b = a
   fmt.Println(a)
-  //fmt.Println(b)
+  fmt.Println(b)
 
 }

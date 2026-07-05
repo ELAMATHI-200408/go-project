@@ -3,12 +3,33 @@
 // *
 // *
 // *
+//package main
+//import "fmt"
+//func main(){
+	//for i := 0; i<3; i++{
+	//	fmt.Println("*")
+	//}
+
+//}
 
 // 2. Print this
 // 1
 // 2 2
 // 3 3 3
 // 4 4 4 4
+package main
+import "fmt"
+func main(){
+	for i := 1; i<5; i++{
+		//for j :=2; j<2; j++{
+			fmt.Println(i*1)
+			//fmt.Println(j*1)
+		}
+	}
+
+}
+
+
 
 // 3. Print this
 // *
